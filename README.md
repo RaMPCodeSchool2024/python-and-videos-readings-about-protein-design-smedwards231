@@ -21,6 +21,24 @@ You will need to upload your completed notebook to your GitHub repository. To co
 
 Now you need to commit and push your changes to your repository. You can do this by following the instructions in the GitHub tutorial from HW1. 
 
+## Watch David Baker's Ted Talk on challenges we can solve by designing new proteins
+
+[David's Ted Talk](https://www.youtube.com/watch?v=PJLT0cAPNfs)! What is the challenge that seems most interesting to you?
+
+## Watch this AlphaFold video
+
+[AlphaFold](https://www.youtube.com/watch?v=gg7WjuFs8F4). What is one detail about AlphaFold that you would like to learn more about?
+
+## Below are additional resources regarding proteins, protein design, physics-based protein design, and ML-based protein design
+
+- [A nice intro to protein folding, protein structure prediction, and protein design by Brian Kuhlman](https://www.biophysics.org/Portals/0/BPSAssets/Education/Documents/Lecture%2011%20Kuhlman.pdf)
+- [Intro to Rosetta for macromolecular modeling and design](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7603796/)
+- [A more technical look at Rosetta scoring functions](https://pubmed.ncbi.nlm.nih.gov/28430426/)
+- [Examples of protein design to solve several challenges](https://www.sciencedirect.com/science/article/pii/S0021925820308498?via%3Dihub)
+- [A guide to ML for biologists](https://www.nature.com/articles/s41580-021-00407-0)
+- [Short article describing a cool ML protein design application](https://elifesciences.org/articles/79310)
+- [Really nice paper describing the high-level goals/techniques of ML for protein design](https://www.nature.com/articles/s41587-024-02127-0)
+
 * [ ] Commit and push your changes to your repository
 
 ## Final notes
