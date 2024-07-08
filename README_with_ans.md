@@ -24,10 +24,15 @@ Now you need to commit and push your changes to your repository. You can do this
 ## Watch David Baker's Ted Talk on challenges we can solve by designing new proteins
 
 [David's Ted Talk](https://www.youtube.com/watch?v=PJLT0cAPNfs)! What is the challenge that seems most interesting to you?
+The idea of a universal flu vaccine is very interesting to me. Given the Red Queen dynamics between human hosts and viruses, I'm not sure 
+how long a computationally designed vaccine would be effective against the flu virus. I think this problem is also especially interesting
+given that man made antibiotics tend to lose effectiveness more quickly than antibiotics derived from nature. I wonder if such a vaccine
+is truly feasible. 
 
 ## Watch this AlphaFold video
 
 [AlphaFold](https://www.youtube.com/watch?v=gg7WjuFs8F4). What is one detail about AlphaFold that you would like to learn more about?
+I am interested in learning more about how CASP determines the proteins it uses to benchmark certain programs (like AlphaFold) and whether the complexity of these proteins is representative of the distribution of proteins found in nature. I am also interested to learn whether there are patterns in the kinds of conformations that AlphaFold returns for proteins that adopt multiple conformations in different environments/during responses to stimuli. Are they just energetically favorable folds? Or is something else more interesting going on? What do the mistakes that AlphaFold makes imply about what goes on under the hood?
 
 ## Below are additional resources regarding proteins, protein design, physics-based protein design, and ML-based protein design
 
